@@ -1,3 +1,3 @@
 # BicycleRentalManager
 
-This is Maven project written in Java.
+This is a school project written in Java using Maven tool.
